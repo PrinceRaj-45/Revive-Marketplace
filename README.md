@@ -104,4 +104,4 @@ To run this project locally on your machine, follow these steps:
 *   **Degree:** Bachelor of Computer Applications (BCA) - Final Year Project
 *   **Developer:** Prince Raj (Reg. No: BCA-310-23093)
 *   **Institution:** CIMAGE College
-*   **GitHub Username:** BCA-310-23093-PrinceRaj
+*   **GitHub Username:@PrinceRaj-45
